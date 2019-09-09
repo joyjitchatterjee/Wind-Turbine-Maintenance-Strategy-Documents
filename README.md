@@ -1,4 +1,4 @@
-# Wind-Turbine-O-M-Strategy-Documents
+# Wind-Turbine-Maintenance-Strategy-Documents
 This is a collection of Wind Turbine Operations and Maintenance (O&amp;M) strategy documents accumulated from a variety of online resources. The resources including white papers, research articles (long and short) and other similar elements.
 As an ongoing project, we hope that this repository may prove useful to engineers, technicians, researchers and other academics for a better understanding of how corrective maintenance operations
 can be used to fix a possible degradation of turbine sub-components optimally.
